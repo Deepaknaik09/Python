@@ -18,7 +18,8 @@ a = 5>4
 # a = 4>=5
 print(a)
 
-# logical operator
+# l
+# Logical operator.
 
 r = True or False
 print(r)
