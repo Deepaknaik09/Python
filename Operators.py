@@ -1,4 +1,4 @@
-# Arithmetic Operator.
+# Arithmetic Operator
 a = 7
 b = 4
 c = a + b
