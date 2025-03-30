@@ -4,7 +4,7 @@ b = 4
 c = a + b
 print(c)
 
-# Assignment Operator.
+# Assignment Operator
 a = 4-2
 print(a)
 b = 6
