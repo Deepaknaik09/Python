@@ -19,3 +19,4 @@
 #     print(num[idx])
 #     idx += 1
 print("hello")
+print("hi")
