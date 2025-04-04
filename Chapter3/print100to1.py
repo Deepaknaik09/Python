@@ -18,7 +18,12 @@
 # while idx < len(num):
 #     print(num[idx])
 #     idx += 1
-print("hello")
-print("hi")
-print("python")
-print("Hello world")
+
+
+# superheros = ["Ironman","Spiderman","Thor","Blackpanter","Hulk"]
+# idx = 0
+# while idx < len(superheros):
+#     print(superheros[idx])
+#     idx += 1
+
+num = [1 , 4 , 9 , 16 , 25 , 36 , 49 , 64 , 81 , 100]
