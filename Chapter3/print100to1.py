@@ -35,10 +35,20 @@
 #     i += 1
 
 # break condition
-i = 1
+# i = 1
+# while i < 10:
+#     print(i)
+#     if(i == 6):
+#         break
+#     i += 1
+# print("End of loop")
+
+
+# continue statement
+i = 0
 while i < 10:
+    if(i == 4):
+        i += 1
+        continue #act as skip
     print(i)
-    if(i == 6):
-        break
     i += 1
-print("End of loop")
