@@ -45,9 +45,17 @@
 
 
 # continue statement
-i = 0
+# i = 0
+# while i < 10:
+#     if(i == 4):
+#         i += 1
+#         continue #act as skip
+#     print(i)
+#     i += 1
+    
+i = 1
 while i < 10:
-    if(i == 4):
+    if(i%2 == 0):
         i += 1
         continue #act as skip
     print(i)
