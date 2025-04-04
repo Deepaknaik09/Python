@@ -26,10 +26,19 @@
 #     print(superheros[idx])
 #     idx += 1
 
-num = [1 , 4 , 9 , 16 , 25 , 36 , 49 , 64 , 81 , 100]
-i = 0
-x = 81
-while i < len(num):
-    if(num[i] == x):
-        print("found at index",i)
+# num = [1 , 4 , 9 , 16 , 25 , 36 , 49 , 64 , 81 , 100]
+# i = 0
+# x = 81
+# while i < len(num):
+#     if(num[i] == x):
+#         print("found at index",i)
+#     i += 1
+
+# break condition
+i = 1
+while i < 10:
+    print(i)
+    if(i == 6):
+        break
     i += 1
+print("End of loop")
