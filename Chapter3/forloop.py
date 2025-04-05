@@ -5,3 +5,8 @@
 #     print(val)
 
 
+# String
+str = "Deepak"
+
+for char in str:
+    print(char)
