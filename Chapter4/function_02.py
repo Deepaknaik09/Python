@@ -5,6 +5,8 @@ names =["deepak","kishor","vishal"]
 def print_len(list):
     print(len(list))
     
-print_len(heros)
-print_len(cars)
-print_len(names)
+def print_list(list):
+    for item in list:
+        print(item, end=" =")
+        
+print_list(heros)
