@@ -21,4 +21,3 @@ def fact(n):
 
 print(fact(5))
 print("hello")
-print("python is a easy language")
